@@ -1,4 +1,3 @@
-![MasterHead](https://media-exp2.licdn.com/dms/image/C4E12AQGhFbRMPvf0tg/article-cover_image-shrink_600_2000/0/1636293868291?e=1662595200&v=beta&t=vMHOb090nuF06yNVpAzuoPNHAfIBR4Qy40nR0O8BpuY)
 <h1 align="center">Hi 👋, I'm Upesh Kumar Verma</h1>
 <h3 align="center">A passionate computer science student from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
