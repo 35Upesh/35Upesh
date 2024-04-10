@@ -1,12 +1,12 @@
-<h1 align="center">Hi 👋, I'm Upesh Kumar Verma</h1>
+<h1 align="center">Hi 👋, I'm Upesh</h1>
 <h3 align="center">A passionate computer science student from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=35upesh&label=Profile%20views&color=0e75b6&style=flat" alt="35upesh" /> </p>
 
-- 🔭 I’m currently working on **C++**
+- 🔭 I’m currently working on **C++,Python**
 
-- 🌱 I’m currently learning **DSA**
+- 🌱 I’m currently learning **Machine Learning, Deep Learning, Computer Vision, Reinforcement Learning, Recommender System, Time Series**
 
 - 📫 How to reach me **35upesh@gmail.com**
 
